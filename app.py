@@ -10,6 +10,7 @@ import requests
 import datetime
 from geopy.distance import geodesic
 
+
 # ---------------------------------------------------------
 # PAGE SETTINGS
 # ---------------------------------------------------------
