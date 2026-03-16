@@ -8,7 +8,7 @@
 **Tools Used:** Python, Pandas, NumPy, Scikit-learn, Seaborn, Matplotlib, Streamlit  
 **Environment:** Jupyter Notebook & VS Code
 
----
+--- 
 
 ## 📌 Project Overview
 
